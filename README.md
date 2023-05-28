@@ -11,8 +11,6 @@
 
 ·设置和调整GPU参数、训练参数、保存路径等
 
-·打开文件夹中的get\_map.py,选择model_name为“frcnn”或者“retinanet”
-
 ·运行
 
 ## ②测试步骤
